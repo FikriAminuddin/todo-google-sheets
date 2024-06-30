@@ -1,10 +1,15 @@
 import axios, { AxiosRequestConfig } from "axios";
 
-const apicoIntegrationId: string = "<Replace with your apico gsheet integration id>";
-const spreadSheetId: string = "<Replace with your google sheet id>";
-const sheetName: string = "Sheet1"; // replace with your sheet name
-const sheetId: number = 1196872439; // replace with your sheet/page gid (not sheet name)
-// you can look at the URL of your spread sheet in the browser to find the gid
+// const apicoIntegrationId: string = "TxjcsT";
+// const spreadSheetId: string = "1386834576";
+// const sheetName: string = "To-do list"; // replace with your sheet name
+// const sheetId: number = 1386834576; // replace with your sheet/page gid (not sheet name)
+// // you can look at the URL of your spread sheet in the browser to find the gid
+
+const apicoIntegrationId: string = "TxjcsT";
+const spreadSheetId: string = "1GF_fQYoFODJITUbZapaQA_bIHKtgWpg5Gd56ENd-9Gs";
+const sheetName: string = "Sheet1"; // replace with your sheet name if different
+const sheetId: number = 0; // the gid from your URL
 
 const apiBaseUrl = `https://api.apico.dev/v1/${apicoIntegrationId}/${spreadSheetId}`;
 
