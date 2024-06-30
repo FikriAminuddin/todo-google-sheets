@@ -1,7 +1,3 @@
-Here's the updated README file incorporating your detailed instructions:
-
----
-
 # Google Sheets Integration
 
 This project demonstrates how to integrate a Google Sheet into a React project using Apico.
