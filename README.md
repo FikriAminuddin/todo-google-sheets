@@ -33,7 +33,7 @@ Ensure you have the following installed:
    - Create a new Google Sheets integration.
    - Note the integration ID and keep it handy for the next step.
 
-![Apico API Example Screenshot](/docs/Screenshot API.png)
+![Apico API Example Screenshot](/docs/Screenshot-API.png)
 
 2. **Create an Empty Google Sheet in Your Google Account:**
    - Login to your [Google Sheets](https://sheets.google.com/) account.
