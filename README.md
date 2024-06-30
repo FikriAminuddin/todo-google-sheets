@@ -29,12 +29,14 @@ Ensure you have the following installed:
 ### Configuration
 
 1. **Create a Google Sheet Integration in Apico:**
-   - Login to your Apico account.
+   - Login to your [Apico](https://apico.dev/) account.
    - Create a new Google Sheets integration.
    - Note the integration ID and keep it handy for the next step.
 
+   ![image](https://github.com/FikriAminuddin/todo-google-sheets/docs/Screenshot API.png)
+
 2. **Create an Empty Google Sheet in Your Google Account:**
-   - Login to your Google Sheets account.
+   - Login to your [Google Sheets](https://sheets.google.com/) account.
    - Create a new Google Sheet.
    - Note down the URL. It should look something like this:
      ```
